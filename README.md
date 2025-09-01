@@ -5,7 +5,7 @@ Soy un estudiante de la universidad de la Costa CUC de Colombia y tambien un des
 
 ---
 
-🌱 Aprendiendo: Git, React, HTML, CSS, Javascript
+🌱 Aprendiendo: Git, React, HTML, CSS, Javascript  
 💼 Proyectos: [Mis repositorios](https://github.com/ronaldalvarezjsjs-oss)  
 
 ---
