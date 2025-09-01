@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ronald
 
-Soy un estudiante de la universidad de la Costa CUC de Colombia y tambien un desarrollador junior apasionado por **JavaScript,HTML,CSS, React y Git**.  
+Soy un estudiante de la universidad de la Costa CUC de Colombia y tambien un desarrollador junior apasionado por aprender nuevas tecnologias y lenguajes de progamacion.  
  
 
 ---
